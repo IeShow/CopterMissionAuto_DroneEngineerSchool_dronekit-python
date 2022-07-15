@@ -1,1 +1,2 @@
-# CopterMissionAuto_DroneEngineerSchool_dronekit-python
+# CopterMissionAuto_DroneEngineerSchool_dronekit-python  
+## How to use  
