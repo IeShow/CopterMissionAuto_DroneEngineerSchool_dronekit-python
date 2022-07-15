@@ -1,0 +1,1 @@
+# CopterMissionAuto_DroneEngineerSchool_dronekit-python
